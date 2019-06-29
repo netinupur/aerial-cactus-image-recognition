@@ -38,7 +38,7 @@ Detailed results from each of the models can be found below.
 |:-----: | :-----: | :-----: |
 | Keras and Tensorflow| 95.21% | 0.9994|
 |PyTorch | 99.48% | 0.9990 |
-|Transfer Learning Model | 97.7% |0 |
+|Transfer Learning Model | 99.1% |0 |
 
 We can see that models from scratch using Keras or PyTorch scored higher than transfer learning models by a small difference. We councluded that this is because of the nature of the project, which was relatively specific and thus the generic trained model did not perform as well. 
 
